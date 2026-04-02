@@ -32,7 +32,7 @@ Each project represents a step in my journey to becoming a better web developer.
 
 
 3. CONRADS TATTOO WEBSITE (CURRENT VERSION)
-   Location: /conrads tattoo website/
+   Location: /tattoo website (current build)/
    
    A professional website for Conrad's Tattoo Studio. This is the latest and
    most polished version, featuring a clean design and better functionality.
@@ -44,7 +44,7 @@ Each project represents a step in my journey to becoming a better web developer.
 
 
 4. ARCHIVE - PREVIOUS TATTOO WEBSITE VERSIONS
-   Location: /archive/
+   Location: /tattoo website (other versions)/
    
    Historical versions of the tattoo website showing my progression:
    
