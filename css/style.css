@@ -89,8 +89,8 @@ header {
 }
 
 .logo-image {
-    width: 75px;
-    height: 75px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     border: 2px solid var(--accent-color);
     object-fit: cover;
